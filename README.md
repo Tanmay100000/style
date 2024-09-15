@@ -187,7 +187,7 @@ Here's a step-by-step guide based on your input to finalize the configuration fo
 
 ---
 
-### General Configuration
+### Step 10: General Configuration
 
 1. **Description**:
    - Enter: `This CICD Pipeline Builds and Deploys a Django Application`.
